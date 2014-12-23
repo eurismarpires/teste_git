@@ -4,5 +4,7 @@ public class Main{
 	
 	}
 
-
+	public double soma(double x, double y){
+		return x + y;
+	}
 }
